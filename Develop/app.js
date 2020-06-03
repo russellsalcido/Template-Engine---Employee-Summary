@@ -35,19 +35,22 @@ inquirer.prompt([
         choices: [
           "Manager", 
             prompts.next({
-                name: "Office phone number?"
+                name: "officeNumber",
+                message: "Office phone number?",
             }),
             prompts.complete(),
           new inquirer.Separator(), 
           "Engineer", 
             prompts.next({
-                name: "Github username?"
+                name: "github",
+                message: "Github username?",
             }),
             prompts.complete(),
           new inquirer.Separator(), 
           "Intern",
             prompts.next({
-                name: "Github username?"
+                name: "school",
+                message: "What school do they attend?"
             }),
             prompts.complete(),
         ]
