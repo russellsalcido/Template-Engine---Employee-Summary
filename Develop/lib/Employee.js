@@ -18,6 +18,6 @@ class Employee {
 getName()
 getId()
 getEmail()
-getRole() // Returns 'Employee'
+getRole('Employee') // Returns 'Employee'
 
 module.exports = Employee;
