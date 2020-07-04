@@ -1,7 +1,7 @@
 
 # Title
 
-Template-Engine---Employee-Summary
+Template-Engine-Employee-Summary
 
 ## Description 
 
@@ -50,7 +50,4 @@ https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct
 
 ## Tests
 
-Employee.test.js
-Egineer.test.js
-Intern.test.js
-Manager.test.js
+![video of app](./TestOne.gif)
