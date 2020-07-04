@@ -26,10 +26,6 @@ You must install node, npm util, npm fs, npm axios, and npm inquirer.
 
 Simply follow the prompts, provide details, and open the rendered result to enjoy an organized and stylized roster in your broswer.
 
-## Credits
-
-
-
 ## License
 
 Copyright (C) 2020 Russell Salcido
@@ -54,5 +50,7 @@ https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct
 
 ## Tests
 
-No testing currently available.
-
+Employee.test.js
+Egineer.test.js
+Intern.test.js
+Manager.test.js
